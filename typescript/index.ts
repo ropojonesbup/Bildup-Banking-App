@@ -15,7 +15,7 @@ console.log(`Please select an option:\n
     5. Transfer to other accounts.\n 
     6. Close an account.\n 
     7. Exit application.\n
-    `);
+`);
 
 console.log("");
 console.log("option:");
