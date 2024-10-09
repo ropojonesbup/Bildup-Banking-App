@@ -1,10 +1,13 @@
 ## 
-firstname =""
-lastname=""
-nin=""
-bvn=""
-phone=""
-gender=""
+customerFirstname = ""
+customerLastname = ""
+customerGender = ""
+customerAddress = ""
+customerAge = ""
+accountNumber = ""
+accountBalance = "" 
+customerBVN = ""
+customerNIN = ""
 
 
 print(" ")
