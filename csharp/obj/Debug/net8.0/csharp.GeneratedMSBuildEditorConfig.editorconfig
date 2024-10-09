@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = csharp
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\sbmen\OneDrive\Desktop\SEAP-10\Projects\BildupBankingApp\csharp\
+=======
+build_property.ProjectDir = C:\SEAP-10\Projects\BildupBankingApp\csharp\
+>>>>>>> 9409a4e2a4c015ed5c62ee8296e9023a967c0137
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
