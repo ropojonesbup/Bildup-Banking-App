@@ -1,3 +1,13 @@
+
+customerFirstname = ""
+customerLastname = ""
+customerGender = ""
+customerAddress = ""
+customerAge = ""
+accountNumber = ""
+accountBalance = "" 
+
+
 print("    ")
 print("    ")
 print("''''''''''''''''''")
