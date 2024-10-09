@@ -1,4 +1,13 @@
-﻿
+﻿string customerFirstname;
+string customerLastname = "";
+string customerGender = "";
+string customerAddress = "";
+string customerAge = "";
+string accountNumber = "";
+int accountBalance = "";
+string customerBVN = "";
+string customerNIN = "";
+ 
 Console.Clear();
 Console.WriteLine("******************");
 Console.WriteLine("Welcome to SEAP-Fi");

@@ -6,7 +6,9 @@ customerAddress = ""
 customerAge = ""
 accountNumber = ""
 accountBalance = "" 
-
+customerBVN = ""
+customerNIN = ""
+ 
 
 print("    ")
 print("    ")
