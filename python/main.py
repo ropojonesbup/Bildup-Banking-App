@@ -1,3 +1,15 @@
+
+customerFirstname = ""
+customerLastname = ""
+customerGender = ""
+customerAddress = ""
+customerAge = ""
+accountNumber = ""
+accountBalance = "" 
+customerBVN = ""
+customerNIN = ""
+ 
+
 print("    ")
 print("    ")
 print("''''''''''''''''''")

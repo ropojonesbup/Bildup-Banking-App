@@ -1,6 +1,5 @@
-// import * as readline from 'readline'
+
 console.clear();
-beep(440, 500);
 console.log("******************");
 console.log("Welcome to SEAP-Fi");
 console.log("******************");

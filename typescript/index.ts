@@ -1,4 +1,25 @@
 
+let  customerFirstname: string = "";
+let customerLastname : string= "";
+let customerGender : string= "";
+let customerAddress: string = "";
+let customerAge: string = "";
+let accountNumber: string = "";
+let accountBalance: string = "";
+let customerBVN: string = "";
+let customerNIN: string = "";
+ 
+
+// let  customerFirstname = "";
+// let customerLastname = "";
+// let customerGender = "";
+// let customerAddress = "";
+// let customerAge = "";
+// let accountNumber = "";
+// let accountBalance = "";
+// let customerBVN = "";
+// let customerNIN = "";
+
 // import * as readline from 'readline'
 console.clear();
 // beep(440, 500);

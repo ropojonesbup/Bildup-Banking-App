@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\sbmen\OneDrive\Desktop\SEAP-10\Projects\BildupBankingApp\csharp\bin\Debug\net8.0\csharp.exe
 C:\Users\sbmen\OneDrive\Desktop\SEAP-10\Projects\BildupBankingApp\csharp\bin\Debug\net8.0\csharp.deps.json
 C:\Users\sbmen\OneDrive\Desktop\SEAP-10\Projects\BildupBankingApp\csharp\bin\Debug\net8.0\csharp.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\sbmen\OneDrive\Desktop\SEAP-10\Projects\BildupBankingApp\csharp\obj\Deb
 C:\Users\sbmen\OneDrive\Desktop\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\csharp.pdb
 C:\Users\sbmen\OneDrive\Desktop\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\csharp.genruntimeconfig.cache
 C:\Users\sbmen\OneDrive\Desktop\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\ref\csharp.dll
+=======
+C:\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\csharp.AssemblyInfoInputs.cache
+C:\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\csharp.AssemblyInfo.cs
+C:\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\csharp.csproj.CoreCompileInputs.cache
+C:\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\csharp.sourcelink.json
+C:\SEAP-10\Projects\BildupBankingApp\csharp\bin\Debug\net8.0\csharp.exe
+C:\SEAP-10\Projects\BildupBankingApp\csharp\bin\Debug\net8.0\csharp.deps.json
+C:\SEAP-10\Projects\BildupBankingApp\csharp\bin\Debug\net8.0\csharp.runtimeconfig.json
+C:\SEAP-10\Projects\BildupBankingApp\csharp\bin\Debug\net8.0\csharp.dll
+C:\SEAP-10\Projects\BildupBankingApp\csharp\bin\Debug\net8.0\csharp.pdb
+C:\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\csharp.dll
+C:\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\refint\csharp.dll
+C:\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\csharp.pdb
+C:\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\csharp.genruntimeconfig.cache
+C:\SEAP-10\Projects\BildupBankingApp\csharp\obj\Debug\net8.0\ref\csharp.dll
+>>>>>>> development
